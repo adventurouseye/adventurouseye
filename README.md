@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **smule500@gmail.com**
 
-- ⚡ Fun fact **I Think I am a Chandler**
+- ⚡ Fun fact **I Think I am a Chandler :D **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

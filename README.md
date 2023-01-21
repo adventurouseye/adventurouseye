@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SwapNil aka @adventurouseye</h1>
 <h3 align="center">A passionate Robotics Engineer from India</h3>
 
-- 🌱 I’m currently learning **Masters in Data Science**
+- 🌱 I’m currently learning **MBA - Engineering Management**
 
 - 📫 How to reach me **smule500@gmail.com**
 
-- ⚡ Fun fact **I Think I am a Chandler**
+- ⚡ Fun fact **Python - The language's name isn't about snakes, but about the popular British comedy troupe Monty Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
